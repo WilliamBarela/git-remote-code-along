@@ -1,3 +1,4 @@
-def hello_git():
-	print "hello"
-	
+def hello_git(name):
+	return "hello" + name
+
+hello_git("git")	
