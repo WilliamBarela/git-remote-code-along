@@ -1,3 +1,4 @@
+# documentation needed for squashing
 from math import sqrt
 
 def adder(x, y):
